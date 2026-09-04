@@ -1,0 +1,17 @@
+A.  Evaluate the organization's response to the security incident by doing the following:
+1.  Identify three actions the organization took in response to the incident.
+2.  Evaluate the effectiveness of each of the three actions from part A1 using a recognized incident response framework (e.g., NIST, SANS, ISO).
+3.  Recommend two improvements to the organization’s incident response procedure that would strengthen detection, containment, or recovery efforts in future incidents, and justify why each recommendation would improve the organization’s incident response effectiveness.
+
+B.  Analyze the provided network architecture diagram and firewall configuration by doing the following:
+1.  Identify three vulnerabilities, design flaws, or misconfigurations that create or enable security risks in the network setup.
+2.  Recommend a secure network design or remediation strategy for each of the three identified issues in part B1, and justify why each recommendation would improve network security.
+3.  Explain how each recommendation in part B2 would improve the network's ability to resist or detect threats and support the confidentiality, integrity, or availability (CIA) of information.
+
+C.  Review the existing firewall and IDS rule sets by doing the following:
+1.  Identify two weaknesses or gaps in the existing firewall or IDS rule sets that create or could allow security risks.
+2.  Explain how each weakness or gap identified in part C1 could allow known threats to exploit the network. Support your explanation with evidence from the provided artifacts.
+3.  Propose two updated or additional firewall or IDS rules to address the weaknesses identified in part C1, and justify how each proposed rule would improve network security and help defend against the threats discussed in part C2.
+
+D.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
+E.  Demonstrate professional communication in the content and presentation of your submission.
