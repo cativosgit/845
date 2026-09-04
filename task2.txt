@@ -15,3 +15,5 @@ C.  Review the existing firewall and IDS rule sets by doing the following:
 
 D.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
 E.  Demonstrate professional communication in the content and presentation of your submission.
+
+This file has been edited, this sentence was added.
